@@ -9,7 +9,7 @@ export default function Specials() {
 <section className="specials">
   <article className="specials-topbar">
     <div className="centered-content">
-      <a className="action-button" href={require('../../../assets/menu.webp')} target="_blank" rel="noreferrer">Online Menu</a>
+      <a className="action-button" href={require('../../../assets/menu.jpg')} target="_blank" rel="noreferrer">Online Menu</a>
     </div>
   </article>
 

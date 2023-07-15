@@ -43,7 +43,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer"
             >
-              info@littlelemon.com
+              insert email here
             </a>
           </ul>
         </li>
