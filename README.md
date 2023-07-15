@@ -21,8 +21,8 @@ Built by Jayden Fisher
 - Meta front-end table-booking API
 
 ### Install and Run:
-
-- Run 'npm start' on the reserve-a-table folder
+- Run 'npm install'
+- Run 'npm start'
 
 ### Author
 
